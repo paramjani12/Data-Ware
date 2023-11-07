@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Encode Sans Expanded', 'Poppins', sans-serif;
+  
+  }
+
+  :root {
+    --back: #037272;
+    --box: #1d2c4f; 
+    --button: #00f5e1;
+    --links: #008d94;
+    --boxtext: #4d5974;
+    --text: #939eb8;
+
+  }
